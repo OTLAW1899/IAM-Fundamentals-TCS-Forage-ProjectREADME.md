@@ -1,0 +1,68 @@
+Identity and Access Management(IAM) Case Study - TCS Forage Program
+
+Overview:
+This project presents a case study focused on Identity and Access Management (IAM), completed as part of the Virtual Experience Program hosted on Forage. The goal was to understand, evaluate, and implement IAM strategies to secure enterprise environments while balancing usability and compliance.
+
+Topics Covered
+1. IAM Fundamentals
+   - Core principles: Least privilege, Zero Trust, Authentication vs Authorization
+   - Role-based access control (RBAC) and attribute-based access control (ABAC)
+   - Password policies, MFA, SSO
+
+2. IAM Strategy Assessment
+   - Evaluating existing IAM framework of a client
+   - Identifying security gaps, compliance risks, and access redundancies
+   - Recommending governance models and lifecycle management
+
+3. Crafting Custom IAM Solutions
+   - Designing access architecture for a global enterprise
+   - Mapping user personas to IAM policies
+   - Addressing access for third parties and privileged accounts
+
+4. Platform Integration
+   - Integrating IAM with legacy and cloud-native systems
+   - Ensuring SAML, OAuth, OpenID Connect compatibility
+   - Automating provisioning and deprovisioning
+
+Case Study: TCS
+Scenario:
+A global enterprise sought help in enhancing its IAM posture to support remote work, cloud adoption, and regulatory compliance.
+
+Actions Taken:
+- Assessed IAM maturity level and created a strategic roadmap
+- Defined access control matrices and identified over-privileged accounts
+- Proposed a custom IAM solution with RBAC, MFA, and SSO policies
+- Integrated IAM tools with internal HR and external SaaS applications
+
+Key Learnings
+
+- IAM is not a one-size-fits-all solution; it requires contextual understanding of business workflows and user roles
+- IAM strategy must align with compliance (e.g., GDPR, HIPAA) and business agility
+- Effective IAM reduces insider threats and enforces secure, auditable access
+
+Deliverables:
+- Strategic IAM Assessment Report (PDF)
+- IAM Solution Design (PDF)
+- IAM implementation Report (Powerpoint)
+- Presentation Deck (Client-Facing Summary)
+
+Due to confidentiality, actual internal documents are not shared publicly.
+
+Tools & Concepts Applied:
+- Identity lifecycle management
+- Multi-factor authentication (MFA)
+- Single Sign-On (SSO)
+- Role and attribute-based access controls
+- IAM integrations (Azure AD, Okta, LDAP)
+- Compliance & risk assessment frameworks
+
+
+
+
+
+
+Connect with Me:
+
+If you're interested in IAM or cybersecurity in general, feel free to connect:
+- [LinkedIn](https://linkedin.com/in/olatunji-lawal-9b293b34b)
+- [GitHub](https://github.com/OTLAW1899)
