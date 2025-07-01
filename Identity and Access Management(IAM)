@@ -35,7 +35,6 @@ Actions Taken:
 - Integrated IAM tools with internal HR and external SaaS applications
 
 Key Learnings
-
 - IAM is not a one-size-fits-all solution; it requires contextual understanding of business workflows and user roles
 - IAM strategy must align with compliance (e.g., GDPR, HIPAA) and business agility
 - Effective IAM reduces insider threats and enforces secure, auditable access
